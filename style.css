@@ -24,6 +24,8 @@ section{
 p{
     font-size: small;font-family: 'Rubik', sans-serif;
    padding-right: 5px;
+   margin: 0%;
+
 }
 pre{font-family: 'Oswald', sans-serif;
     
@@ -41,3 +43,10 @@ pre{font-family: 'Oswald', sans-serif;
 .back-img{
     background-image: url(images/top-banner.png) ;
     background-repeat: no-repeat;
+}
+    .dream-big{
+        background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        
+    }
