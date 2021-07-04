@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 200px;
 }
 .half-width{
     width: 50%;
@@ -21,9 +22,11 @@ section{
 
 }
 p{
-    font-size: small;
+    font-size: small;font-family: 'Rubik', sans-serif;
+   padding-right: 5px;
 }
 pre{font-family: 'Oswald', sans-serif;
+    
 
 }
 .link-button{
@@ -38,4 +41,3 @@ pre{font-family: 'Oswald', sans-serif;
 .back-img{
     background-image: url(images/top-banner.png) ;
     background-repeat: no-repeat;
-}
