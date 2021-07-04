@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-
+ margin: 0%;
 }
 h1{
     font-size:40px ;
@@ -35,3 +35,7 @@ pre{font-family: 'Oswald', sans-serif;
     border-radius:5px ;
 }
 
+.back-img{
+    background-image: url(images/top-banner.png) ;
+    background-repeat: no-repeat;
+}
